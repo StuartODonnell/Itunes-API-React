@@ -1,0 +1,10 @@
+.tune{
+  background-color: slategrey;
+  width: 90%;
+  align-items: center;
+  display: inline-flex;
+  justify-content: space-between;
+  border-right: 1px solid white;
+padding-top: 10px;
+
+}

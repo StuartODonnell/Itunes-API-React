@@ -6,19 +6,24 @@ body {
   background-image: url("https://png2.kisspng.com/sh/d33379caa44ea4cd62a58d6618b7a24b/L0KzQYi4UsE5N2E9SJGAYUO6dYO4UvQ6OGVmUJCAMEm0QYi3UcE2OWQ7SaMCOUS7SImCTwBvbz==/5a37e212d904a8.5091170115136117948889.png");
   background-repeat: no-repeat;
   background-position: left center;
-opacity: 0.5;
+  opacity: 0.9;
   z-index: -1;
+  background-color: grey;
 }
 
 h3{
-  color: ivory;
+  color: white;
   font-family: Lucida;
   font-weight: bold;
   font-size: 25px;
 }
 
 h4{
-  color: ivory;
+  color: white;
   font-family: Lucida;
   font-size: 20px;
+}
+
+h1{
+  align-content: center;
 }
